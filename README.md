@@ -11,6 +11,3 @@ In this section, we explore clustering and dimensionality reduction techniques. 
 
 **Part 5: Deep Learning and Reinforcement Learning**
 This part covers the basics and applications of deep learning and reinforcement learning. Projects include building neural networks with TensorFlow/Keras, implementing convolutional neural networks (CNNs) for image classification, and using reinforcement learning algorithms to solve complex problems.
-
-**Part 6: Time Series and Survival Analysis**
-In this section, we delve into time series forecasting and survival analysis. Key topics include ARIMA models, exponential smoothing, the Cox proportional hazards model, and the Kaplan-Meier estimator, applied to real-world datasets.
